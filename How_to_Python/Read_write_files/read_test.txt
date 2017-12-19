@@ -1,0 +1,4 @@
+Hi! You're able to read me with python's read function!
+Hope you're doing Well!
+
+GoodBye!:)

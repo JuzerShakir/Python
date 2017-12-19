@@ -1,0 +1,1 @@
+Hi! I have been written by write function! + I have been added by append function!
