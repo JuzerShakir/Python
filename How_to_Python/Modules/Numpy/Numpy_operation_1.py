@@ -9,7 +9,7 @@ What Numpy can do?
 #5. Find the shape of an array (giving you no. of columns and rows)
 #6. You can reshape the array
 #7. You can slice the array
-#8. Finding min, max and sum of the elements in the array"""
+#8. Finding min, max and sum of the elements in the arrays"""
 """----------------------------------------------------------------------------------------------------------------------------------------------------------"""
 
 import numpy as np
