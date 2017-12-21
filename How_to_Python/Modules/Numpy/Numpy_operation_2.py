@@ -33,7 +33,7 @@ sqrt = np.sqrt(a)
 print("\nThe sqaure root of each elements are \n{}".format(sqrt))
 """----------------------------------------------------------------------------------------------------------------------------------------------------------"""
 
-#----11
+# 11
 # Finding standard deviation of the array
 stnd = np.std(a)
 print("\nThe standard deviation of array is \n{}".format(stnd))
