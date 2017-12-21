@@ -1,4 +1,4 @@
-""" Author : Juzer Shakir   ||  Created on 18 NDec 2017     ||   Last modified on 18 Dec 2017 7:46pm
+""" Author : Juzer Shakir   ||  Created on 18 Dec 2017     ||   Last modified on 18 Dec 2017 7:46pm
 Topic : Calculates the density of the population"""
 """----------------------------------------------------------------------------------------------------------------------------------------------------------"""
 
